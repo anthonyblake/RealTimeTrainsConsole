@@ -23,4 +23,4 @@ Switch from departures to arrivals by suffixing the endpoint with /arrivals
 
 ## Preston Departure Board
 
-![Alt text](/relative/path/to/PrestonDepartures.PNG?raw=true "Preston Departure Board")
+![Alt text](/Screenshots/PrestonDepartures.PNG?raw=true "Preston Departure Board")
