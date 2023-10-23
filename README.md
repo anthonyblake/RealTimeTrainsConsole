@@ -19,3 +19,8 @@ Switch from departures to arrivals by suffixing the endpoint with /arrivals
 **API Documentation**
 
 [https://www.realtimetrains.co.uk/about/developer/pull/docs/](https://www.realtimetrains.co.uk/about/developer/pull/docs/)
+
+
+## Preston Departure Board
+
+![Alt text](/relative/path/to/PrestonDepartures.PNG?raw=true "Preston Departure Board")
